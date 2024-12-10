@@ -1,0 +1,1 @@
+function dividir(i,d){return i/d}module.exports=dividir;

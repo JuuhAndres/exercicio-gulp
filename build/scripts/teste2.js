@@ -1,0 +1,1 @@
+let dividir=require("./teste1");console.log("Dividir: ",dividir(40,20));
